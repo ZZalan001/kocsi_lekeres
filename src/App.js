@@ -8,7 +8,7 @@ const CarsList = () => {
   const [error, setError] = useState(null);
 
   // Fetch kérés az autók adatainak lekérésére
-  useEffect(() => {
+  useEffect(() => { 
     // Az API végpont
     const fetchCars = async () => {
       try {
