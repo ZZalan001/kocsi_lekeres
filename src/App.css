@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.szelesseg{
+  width: 200px;
+}
+
+.feketehatter{
+  background-color: black;
+  color: white;
+}
